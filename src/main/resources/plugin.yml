@@ -4,3 +4,5 @@ main: tundraclimate.com.github.storageguns.StorageGuns
 api-version: 1.16
 authors: [ Tundra_Climate ]
 description: added Storage Guns
+
+commands:
