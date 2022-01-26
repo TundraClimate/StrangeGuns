@@ -6,5 +6,6 @@ public final class StorageGuns extends JavaPlugin {
 
     @Override
     public void onEnable() {
+        getLogger().info("hello!");
     }
 }
