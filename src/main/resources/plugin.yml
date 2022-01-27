@@ -1,9 +1,9 @@
-name: StorageGuns
+name: StrangeGuns
 version: '${version}'
-main: tundraclimate.com.github.storageguns.StorageGuns
+main: tundraclimate.com.github.strangeguns.StrangeGuns
 api-version: 1.16
 authors: [ Tundra_Climate ]
-description: added Storage Guns
+description: added Strange Guns
 
 commands:
   strangegun:
