@@ -1,3 +1,5 @@
+**Development has been discontinued**
+
 # StrangeGuns
 
 added StrangeGuns
