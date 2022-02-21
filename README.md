@@ -1,4 +1,4 @@
-**Development has been discontinued**
+# Development has been discontinued
 
 # StrangeGuns
 
